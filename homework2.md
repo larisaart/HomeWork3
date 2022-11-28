@@ -4,6 +4,6 @@
 
 1. Fast-forward - когда слияние происходит без конфликтов
 
-2. Merge made by the 'ort' stratege
+2. Merge made by the 'ort' stratege - когда паралельно происходит редактирование другого файла и слияние 
 
 3. Avtomatic merge failed
