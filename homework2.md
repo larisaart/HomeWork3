@@ -6,4 +6,4 @@
 
 2. Merge made by the 'ort' stratege - когда паралельно происходит редактирование другого файла и слияние 
 
-3. Avtomatic merge failed
+3. Avtomatic merge failed - когда тут тоже есть информация
