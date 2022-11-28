@@ -2,7 +2,7 @@
 
 ## Conflicts
 
-1. Fast-forward
+1. Fast-forward - когда слияние происходит без конфликтов
 
 2. Merge made by the 'ort' stratege
 
